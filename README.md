@@ -1,6 +1,5 @@
 
 # *Front End
-# Change 'absolute address' to 'relative address' for TimeSlotsService.js in index.js  
 # refactor HandleSelectionClick() in index.js
 
 
